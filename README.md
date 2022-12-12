@@ -1,2 +1,4 @@
-# Analysis-Using-Benford-s-Law
-This repository contains the source files and coding to examine whether the benford's law holds for hetegenous datasets such as Virat Kohli's ODI runs, Lok Sabha election votes, Calories in Starbucks drinks, Delhi's Air Quality Index, and more!  
+# Data Analysis Using Benford's Law
+
+Check out the indepth blogpost at https://medium.com/@vihasharma1099/the-mysterious-benfords-law-and-it-s-connection-with-fraud-detection-4a1192f48f47
+
